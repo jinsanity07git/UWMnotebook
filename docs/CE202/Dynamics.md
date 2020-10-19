@@ -96,7 +96,7 @@ Horizontal acceleration = 0
     - ​	 $\begin{aligned}
       ​	       \vec{v} &= v \hat{u}_t \\
       ​	       \vec{a} &= \dot{v} \, \hat{u}_t + \frac{v^2}{\rho} \hat{u}_n 
-       	​	\end{aligned}$ 
+      ​		\end{aligned}$ 
    
      * $\rho = \frac{(x'^2 + y'^2)^{3/2}} {|d^2y/dx^2|} $ 
    
