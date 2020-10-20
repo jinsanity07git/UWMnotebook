@@ -146,15 +146,13 @@ Horizontal acceleration = 0
     2. differentiate with respect to time ?
        *  to find relative velocity and relative acceleration:
 
-* <img src="Dynamics_img/image-20201019121114549.png" alt="image-20201019121114549" style="zoom:30%;" />
+* <img src="../CE202/Dynamics_img/image-20201019121114549.png"  style="zoom:50%;" />
 
 [^1]: [Polar (Radial/Transverse) Coordinates](http://web.mst.edu/~reflori/be150/lessons/lesson_05/polar_coordinates.html) 
 
 
 
  <div style="page-break-after: always;"></div>   
-
-
 
 ### Chapter 13,Sections 1-6
 
@@ -192,14 +190,14 @@ Horizontal acceleration = 0
     * Used path coordinates.
     * Could have just as well used polar. 
 
-<img src="Dynamics_img/image-20201019114435785.png" alt="image-20201019114435785" style="zoom:33%;" />
+<img src="/CE202/Dynamics_img/image-20201019114435785.png" alt="image-20201019114435785" style="zoom:33%;" />
 
 
 
 * Polar Coordinates
   * $tan\psi = \frac{r d\theta} {dr} =\frac{r} {dr/d\theta}  $ 
   
-  *  <img src="Dynamics_img/image-20201019114524207.png" alt="image-20201019114524207" style="zoom:33%;" />
+  *  <img src="/CE202/Dynamics_img/image-20201019114524207.png" alt="image-20201019114524207" style="zoom:33%;" />
   
      
 
