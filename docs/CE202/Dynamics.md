@@ -190,14 +190,14 @@ Horizontal acceleration = 0
     * Used path coordinates.
     * Could have just as well used polar. 
 
-<img src="/CE202/Dynamics_img/image-20201019114435785.png" alt="image-20201019114435785" style="zoom:33%;" />
+![simple pendulum](Dynamics_img/image-20201024191222973.png)
 
 
 
 * Polar Coordinates
   * $tan\psi = \frac{r d\theta} {dr} =\frac{r} {dr/d\theta}  $ 
   
-  *  <img src="/CE202/Dynamics_img/image-20201019114524207.png" alt="image-20201019114524207" style="zoom:33%;" />
+  *  ![TN in polar](Dynamics_img/image-20201019114524207.png)
   
      
 
