@@ -13,6 +13,7 @@
 | <img src="./img/The-Four-step-model.png"  style="max-width:40%;" /> | Urban Transportation Planning<br />CE590             | undergraduate;<br />graduate | [Notebook](CE590/README.md)     |
 | <img src="./img/ODE.svg" style="max-width:40%;" />           | Mathematics,linear algebra,diff equations<br />CE601 | undergraduate;<br />graduate | [Notebook](Math601/math601.md)  |
 | <img src="./img/stats_inference.png"  style="max-width:40%;" /> | Statistical Inference<br />Math761-762               | graduate                     | [Notebook](Math7612/stat762.md) |
+| <img src="./img/corsim.jpg"  style="max-width:40%;" />       | SimaaS<br />CE998                                    | graduate                     | [Notebbok](CE998/CE998.md)      |
 
 
 
