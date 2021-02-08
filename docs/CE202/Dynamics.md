@@ -19,7 +19,7 @@
 
 ### Chapter 12, Sections 1-3
 
-• Introduction
+• Introduction [Exercise 1](CE202/lab/lab2_equations_presentation.md)
 
  Rectilinear Motion of Particles
 
