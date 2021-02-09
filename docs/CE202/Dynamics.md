@@ -48,9 +48,9 @@
 
  <div style="page-break-after: always;"></div>   
 
-### Chapter 12, Sections 4-6
+### Chapter 12, Sections 4-6 
 
-**General curvilinear motion**
+**General curvilinear motion** 
 
 * Rectangular Components
   * position: $\vec { \mathbf { r } } = x \hat { \mathbf { i } } + y \hat { \mathbf { j } } + z \hat { \mathbf { k } }$ 
@@ -59,7 +59,7 @@
   * Acceleration: $\vec { \mathbf { a } } = \frac { d \vec { \mathbf { v } } } { d t } = a _ { x } \hat { \mathbf { i } } + a _ { y } \hat { \mathbf { j } } + a _ { z } \hat { \mathbf { k } }$ 
     * $a _ { x } = \frac { d v _ { x } } { d t } = \dot { v } _ { x } = \frac { d ^ { 2 } x } { d t ^ { 2 } } = \ddot { x } ,$ etc 
 
-**Special case: Projectile motion**
+**Special case: Projectile motion  ** [Exercise 2](http://129.89.35.118/udata/project/1532522260233_user/dynamic%20animation/trim_Functions.html) 
 
 Horizontal acceleration = 0
 
