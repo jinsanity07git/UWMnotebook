@@ -100,7 +100,7 @@ Horizontal acceleration = 0
    
      * $\rho = \frac{(x'^2 + y'^2)^{3/2}} {|d^2y/dx^2|} $ 
    
-*  Polar and cylindrical coordinates
+*  Polar and cylindrical coordinates.   [Exercise 3](CE202/lab/lab4_equations_presentation.md) 
 
   * components	
     * Transverse coordinate[^1] , θ, measured **counter clockwise** from a fixed reference: the positive x-axis, for example.
