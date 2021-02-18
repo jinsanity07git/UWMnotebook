@@ -121,5 +121,14 @@ option = {
 
 
 
+## Quiz solution:
+
+``` pdf
+CS202/quiz/Quiz 2_803_Soln_hand.pdf
+```
+``` pdf
+CS202/quiz/CE 202 Quiz 2 804 Soln.pdf
+```
+
 
 

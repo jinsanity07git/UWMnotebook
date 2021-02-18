@@ -19,7 +19,7 @@
 
 ### Chapter 12, Sections 1-3
 
-• Introduction [Exercise 1](CE202/lab/lab2_equations_presentation.md)
+• Introduction [Week2: Exercise 1](CE202/lab/lab2_equations_presentation.md)
 
  Rectilinear Motion of Particles
 
@@ -59,7 +59,7 @@
   * Acceleration: $\vec { \mathbf { a } } = \frac { d \vec { \mathbf { v } } } { d t } = a _ { x } \hat { \mathbf { i } } + a _ { y } \hat { \mathbf { j } } + a _ { z } \hat { \mathbf { k } }$ 
     * $a _ { x } = \frac { d v _ { x } } { d t } = \dot { v } _ { x } = \frac { d ^ { 2 } x } { d t ^ { 2 } } = \ddot { x } ,$ etc 
 
-**Special case: Projectile motion  ** [Exercise 2](http://129.89.35.118/udata/project/1532522260233_user/dynamic%20animation/trim_Functions.html) 
+**Special case: Projectile motion  ** [Week3: Exercise 2](http://129.89.35.118/udata/project/1532522260233_user/dynamic%20animation/trim_Functions.html) 
 
 Horizontal acceleration = 0
 
@@ -100,7 +100,7 @@ Horizontal acceleration = 0
    
      * $\rho = \frac{(x'^2 + y'^2)^{3/2}} {|d^2y/dx^2|} $ 
    
-*  Polar and cylindrical coordinates.   [Exercise 3](CE202/lab/lab4_equations_presentation.md) 
+*  Polar and cylindrical coordinates.   [Week4: Exercise 3](CE202/lab/lab4_equations_presentation.md) 
 
   * components	
     * Transverse coordinate[^1] , θ, measured **counter clockwise** from a fixed reference: the positive x-axis, for example.
