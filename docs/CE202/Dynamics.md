@@ -125,9 +125,9 @@ Horizontal acceleration = 0
    ​              \vec{a} &= \dot{v} \, \hat{u}_t + \frac{v^2}{\rho} \hat{u}_n
    ​\end{aligned}$    
 
-###  Chapter 12, Sections 9-10 
+###  Chapter 12, Sections 9-10  
 
-* Absolute dependent motion analysis of two particles
+* Absolute dependent motion analysis of two particles [Week5: Exercise 4](CE202/lab/lab5_equations_presentation.md)
 
   * steps
 
