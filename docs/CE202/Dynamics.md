@@ -170,7 +170,7 @@ Horizontal acceleration = 0
     3. Kinematics 
     4. Combine and solve
   * equations
-    * Newton’s 2nd Law of Motion
+    * Newton’s 2nd Law of Motion  [Week7: Exercise 5](CE202/lab/lab7_equations_presentation.md) 
       * $\sum \vec{F} =  m\vec{a}  $   
     * Friction
       * $F_f = \mu N$    
