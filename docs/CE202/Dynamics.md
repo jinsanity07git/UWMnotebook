@@ -207,9 +207,9 @@ Horizontal acceleration = 0
 
 ### Chapter 14 Sections 1-6
 
-Work, Energy, Power, and Efficiency 
+Work, Energy, Power, and Efficiency  
 
-* Work of a force
+* Work of a force  [Week9: Exercise 6](CE202/lab/lab9_equations_presentation.md)
   * $U_{1-2} = \int_{\vec{r}_1}^{\vec{r}_2} \vec{F} \cdot d\vec{r} $ 
     * constant force : $U_{1-2} = F_c cos\theta(s_2 -s_1) $  
     * gravitational force (weight) : path independence : $-mgh $
