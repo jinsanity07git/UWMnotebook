@@ -271,7 +271,7 @@ Topics
 
 
 
-*  **Principle of Linear Impulse and Momentum:** 
+*  **Principle of Linear Impulse and Momentum:**    [Week11: Exercise 7](CE202/lab/lab10_equations_presentation.md)
 
   * $m\vec{v_1} + \int_{\vec{t}_1}^{\vec{t}_2} \vec{F} \cdot dt  = m\vec{v_2} $ 
   * If it is inconvenient to integrate vectors, you can dot with unit vectors to produce scalar equations:
