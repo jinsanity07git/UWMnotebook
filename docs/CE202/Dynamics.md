@@ -92,7 +92,6 @@ Horizontal acceleration = 0
       ​        \vec{a} &= \ddot{s} \, \hat{e}_t + \frac{\dot{s}^2}{\rho} \hat{e}_n  \\
       ​        \kappa = \frac{|x''y' - y''x'|}{(x'^2 + y'^2)^{3/2}} 
       ​  \end{aligned}$
-      
     - ​	 $\begin{aligned}
       ​	       \vec{v} &= v \hat{u}_t \\
       ​	       \vec{a} &= \dot{v} \, \hat{u}_t + \frac{v^2}{\rho} \hat{u}_n 
@@ -435,7 +434,7 @@ Planar Kinematics of a Rigid Body
 
 Planar Kinematics of a Rigid Body
 
-*  Instantaneous Center of Zero Velocity
+*  Instantaneous Center of Zero Velocity  [Week13: Exercise 8](CE202/lab/lab13_equations_presentation.md)
   *  Defination
         * Location that just for an instant has zero velocity
         * May have non-zero acceleration 
