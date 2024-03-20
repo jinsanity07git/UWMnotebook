@@ -1,5 +1,7 @@
 
 # Roadmap
+## Productivity 
+* [search syntax in Everything](/productivity/search?id=everything)
 ## Features
 
 | **Priority** | ![][p0]  ![][p1]  ![][p2] |
