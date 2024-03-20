@@ -1,4 +1,6 @@
 
+# Cloud stack notes
+* GPT-SoVITS : [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/RVC-Boss/GPT-SoVITS/blob/main/colab_webui.ipynb)  
 
 # Transportation technical notes
 
@@ -22,9 +24,9 @@
 
 
 
-Example colab notebook
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O-FeLQhnWab8fHGT95wbbcZo4tjpvBis]
+Example tag
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O-FeLQhnWab8fHGT95wbbcZo4tjpvBis)
+[![Open In Colab](https://img.shields.io/badge/sanity-nb-gold)](https://colab.research.google.com/drive/1O-FeLQhnWab8fHGT95wbbcZo4tjpvBis)
 
 # Class notebook at UWM
 
