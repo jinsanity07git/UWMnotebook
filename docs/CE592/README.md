@@ -762,3 +762,4 @@ collective wisdom
 
 [^4]: [Use Links in Typora/Markdown](https://support.typora.io/Links/) 
 [^5]: https://www.citylab.com/design/2011/09/street-grids/124/
+[^6]: Cunard and Mahmassani - Traffic Flow Theory.pdf
