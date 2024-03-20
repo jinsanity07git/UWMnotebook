@@ -1,6 +1,19 @@
 
+# Roadmap
+## Features
+
+| **Priority** | ![][p0]  ![][p1]  ![][p2] |
+| ------------ | :----------------------------------------------------------- |
+| **Scope**    | ![][lg] ![][md]  ![][sm] |
+| **Status**   | ![][not-started] ![][in-progress] ![][delivered] |
+
+## Tasks
+* ![][p0-medium]![][in-progress]
+* ![][p1-medium]![][in-progress]
+* [mouseover : tooltip ][not-started]
 # Cloud stack notes
 * GPT-SoVITS : [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/RVC-Boss/GPT-SoVITS/blob/main/colab_webui.ipynb)  
+* Markdown Roadmap Example [Kepler.gl 2019 Roadmap](https://raw.githubusercontent.com/wiki/keplergl/kepler.gl/Kepler.gl-2019-Roadmap.md)
 
 # Transportation technical notes
 
@@ -49,3 +62,36 @@ Example tag
 
 
 
+# Reference
+
+[not-started]: https://img.shields.io/badge/-not_started-lightgrey.svg?style=flat-square "Not Started"
+
+[in-progress]: https://img.shields.io/badge/-in_progress-blue.svg?style=flat-square "In Progress"
+
+[delivered]: https://img.shields.io/badge/-delivered-green.svg?style=flat-square " Delievered"
+
+[p0]: https://img.shields.io/badge/-P0-red.svg?style=flat-square&colorB=rgba(177,0,38,0.8) "P0"
+[p1]: https://img.shields.io/badge/-P1-orange.svg?style=flat-square&colorB=rgb(253,141,60) "P1"
+[p2]: https://img.shields.io/badge/-P2-yellow.svg?style=flat-square&colorB=rgb(254,217,118) "P2"
+
+[lg]: https://img.shields.io/badge/-large-blue.svg?style=flat-square&colorB=rgba(1,102,94,0.9) "Large"
+[md]: https://img.shields.io/badge/-medium-green.svg?style=flat-square&colorB=rgb(90,174,100) "Medium"
+[sm]: https://img.shields.io/badge/-small-yellowgreen.svg?style=flat-square&colorB=rgb(166,216,90) "Small"
+
+[p0-large]: https://img.shields.io/badge/P0-large-red.svg?style=flat-square&colorA=rgba(177,0,38,0.8)&colorB=rgb(90,174,97) "P0-Large"
+
+[p0-medium]: https://img.shields.io/badge/P0-medium-red.svg?style=flat-square&colorA=rgba(177,0,38,0.8)&colorB=rgb(90,174,97) "P0-Medium"
+
+[p0-small]: https://img.shields.io/badge/P0-small-red.svg?style=flat-square&colorA=rgba(177,0,38,0.8)&colorB=rgb(166,216,90) "P0-Small"
+
+[p1-large]: https://img.shields.io/badge/P1-large-red.svg?style=flat-square&colorA=rgb(253,141,60)&colorB=rgba(1,102,94,0.9) "P1-large"
+
+[p1-medium]: https://img.shields.io/badge/P1-medium-red.svg?style=flat-square&colorA=rgb(253,141,60)&colorB=rgb(90,174,97) "P1-Medium"
+
+[p1-small]: https://img.shields.io/badge/P1-small-red.svg?style=flat-square&colorA=rgb(253,141,60)&colorB=rgb(166,216,90) "P1-Small"
+
+[p2-large]: https://img.shields.io/badge/P2-large-red.svg?style=flat-square&colorA=rgb(254,217,118)&colorB=rgba(1,102,94,0.9) "P1-large"
+
+[p2-medium]: https://img.shields.io/badge/P2-medium-red.svg?style=flat-square&colorA=rgb(254,217,118)&colorB=rgb(90,174,97) "P2-Medium"
+
+[p2-small]: https://img.shields.io/badge/P2-small-red.svg?style=flat-square&colorA=rgb(254,217,118)&colorB=rgb(166,216,90) "P2-Small"
