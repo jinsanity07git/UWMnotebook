@@ -1,3 +1,31 @@
+
+
+# Transportation technical notes
+
+* [TDM23 User Guide](https://ctpsstaff.github.io/tdm23_users_guide/1.0/)
+
+* tdm23 model call stack -[Sankey Chart](https://ctpsstaff.github.io/tdm23_users_guide/1.0/pages/_assets/gisdk_assets/sankey_chart.html)
+
+* [trafficvis](https://trafficvis.com/) : *CEE 310: Transportation Engineering * at University of Illinois at Urbana-Champaign
+
+  * [Dilemma Zones](https://trafficvis.com/dilemma-zone)
+
+  * [Construction Zone](https://trafficvis.com/construction-zone)
+
+  * [Space vs. Time Mean Speed](https://trafficvis.com/space-mean)
+
+  * [Fundamental Diagram](https://trafficvis.com/fundamental-diagram)
+
+  * [Three Fundamental Diagrams](https://trafficvis.com/fundamental-diagrams)
+
+    These are created by [Dr. Lewis Lehe](https://lewislehe.com/). Check out the [Urban Traffic and Economics Lab](https://lehelab.com/) to learn more about his group's research.
+
+
+
+Example colab notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O-FeLQhnWab8fHGT95wbbcZo4tjpvBis]
+
 # Class notebook at UWM
 
 ## Overview
