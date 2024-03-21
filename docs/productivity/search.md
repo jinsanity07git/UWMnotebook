@@ -1,4 +1,6 @@
 
+
+
 ## Everything
 
 Q: 
@@ -14,6 +16,24 @@ A:
 "J:\My Drive" *.md
 ```
 
+---
+
+Q:
+ search for a path that contains a specific keyword, such as "github"
+
+A:
+1. Modifiers: Functions and regular search terms can be prefixed with a modifier.
+
+2. | `childcount:<count>`           | Search for folders that contain the specified number of subfolders and files. |
+   | ------------------------------ | ------------------------------------------------------------ |
+   | `folder:folders:nofolderonly:` | Match folders only.                                          |
+```bash
+count:5 path: github\tdm23 
+```
 
 
+
+## References
+
+[^1]: [everything search Syntax](https://www.voidtools.com/support/everything/searching/)
 

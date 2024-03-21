@@ -2,6 +2,8 @@
 # Roadmap
 ## Productivity 
 * [search syntax in Everything](/productivity/search?id=everything)
+* [syntax cases for regular expression](/productivity/cheatsheet/cheat_regularExpression.md)
+
 ## Features
 
 | **Priority** | ![][p0]  ![][p1]  ![][p2] |
