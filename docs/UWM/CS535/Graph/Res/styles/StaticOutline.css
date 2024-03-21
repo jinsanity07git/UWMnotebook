@@ -1,0 +1,111 @@
+/* Cascading Style Sheet for HTML export */
+/* MODULE: STATIC OUTLINE */
+
+/* Light Blue style */
+
+/* This stylesheet expects the following HTML structure
+		  
+  left column in page body
+		  #pageBody .left
+		  
+		  td.outlineColumn
+		     div.staticOutline
+			     div.maintopic
+				     span.select or splan.unselect
+			     div.subtopic
+				     span.select or splan.unselect
+					  
+*/
+
+
+/* visual highlight the sidebar navigation */
+.outlineColumn {
+	vertical-align: top;	
+	border-right: 2px solid #0062BF;			/* STYLE */
+	background-color: #FAFAFA;					/* STYLE */
+	margin: 0px;
+	padding-bottom: 20px; 
+}
+
+.staticOutline {
+	white-space: nowrap; 		
+	vertical-align: top;
+}
+
+.staticOutline a:link {
+	color: #2F4F4F;								/* STYLE */
+	text-decoration: none;
+}
+
+.staticOutline a:active {
+	color: #FF3300;							/* STYLE */
+	text-decoration: none;
+}
+
+.staticOutline a:visited {
+	color: #2F4F4F;								/* STYLE */
+	text-decoration: none;
+}
+
+.staticOutline a:hover {
+   color: #CC0000;								/* STYLE */
+	text-decoration: none;
+}
+
+.staticOutline .hometopic a:link {
+	color: #0062BF;								/* STYLE */
+}
+
+.staticOutline .hometopic a:visited {
+	color: #0062BF;								/* STYLE */
+}
+
+.staticOutline .hometopic img {
+	display: none;								/* STYLE */   /* show/hide image */
+}
+
+.staticOutline .hometopic {
+	/*background : #0062BF; 	*/			/* STYLE */
+   margin-left:  4px;
+   margin-right:  4px;
+	margin-top:   0em;						/* STYLE */
+	margin-bottom: 2em;						/* STYLE */
+	font-size: 8pt;
+	font-weight: bold;						/* STYLE */
+   /*padding-top: 5px;*/					/* STYLE */
+}
+
+.staticOutline .maintopic img {
+	display: none;								/* STYLE */   /* show/hide image */
+}
+
+.staticOutline .maintopic {
+	/*background : #0062BF; 	*/			/* STYLE */
+   margin-left:  4px;
+   margin-right:  4px;
+	margin-top:   0.8em;						/* STYLE */
+	margin-bottom: 0.2em;					/* STYLE */
+	font-size: 8pt;
+	font-weight: bold;						/* STYLE */
+	border-bottom: 1px dotted #FFCC66;  /* STYLE */
+   /*padding-top: 5px;*/					/* STYLE */
+}
+
+.staticOutline .subtopic img {
+	display: inline;							/* STYLE */   /* show/hide image */
+}
+
+.staticOutline .subtopic {
+   text-indent: 4px;						 	/* set to 0 if image is hidden */ /* STYLE */
+   margin-left:  4px;			       	/* use same margin as in .maintopic*/			/* STYLE */
+   margin-right:  4px;
+	margin-bottom: 0.2em;					/* STYLE */
+	font-size: 8pt;
+}
+
+.staticOutline .select {
+	background-color: #FFE2A4;
+}
+
+.staticOutline .unselect {
+}
