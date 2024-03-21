@@ -19,7 +19,8 @@ A:
 ---
 
 Q:
- search for a path that contains a specific keyword, such as "github"
+
+*  search for a path that contains a specific keyword, such as "github"
 
 A:
 1. Modifiers: Functions and regular search terms can be prefixed with a modifier.
@@ -30,6 +31,23 @@ A:
 ```bash
 count:5 path: github\tdm23 
 ```
+
+Q:
+* To search for all markdown files under a partial path (e.g., "oracle", "docs\productivity" ) 
+
+A:
+
+
+```bash  
+path:*orac* *.md
+or
+path: *docs\prod* .md
+```
+
+This query does the following:
+
+path:*orac*: Searches for paths that contain the string "orac" anywhere in the path. The asterisks (*) are wildcards that match any sequence of characters, allowing "orac" to appear anywhere within the directory name.
+*.md: Filters the results to only show files with the .md extension, which are Markdown files.
 
 
 
