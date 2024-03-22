@@ -17,11 +17,12 @@ def collect_files_by_kind(root_dir,suffix):
             if file.endswith(f'.{suffix}'):
                 relative_path = os.path.relpath(os.path.join(root, file), start=root_dir)
                 windows_path = './{}'.format(relative_path.replace('\\', '/') )
-                md_files.append(windows_path)
+                if  windows_path.count('/') > 1:
+                    md_files.append(windows_path)
     return md_files
 
 if __name__ == "__main__":
     # Example usage
-    root_directory = '../docs'  # Change this to your actual root directory
+    root_directory = './docs'  # Change this to your actual root directory
     md_file_paths = collect_files_by_kind(root_directory,suffix="md")
     pprint(md_file_paths)
