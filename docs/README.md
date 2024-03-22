@@ -1,5 +1,8 @@
 
 # Roadmap
+## Devloper notes
+* Backend
+* * [ASGI vs WSGI](DevNotes/backend.md)
 ## Productivity 
 * [search syntax in Everything](/productivity/search?id=everything)
 * [syntax cases for regular expression](/productivity/cheatsheet/cheat_regularExpression.md)
