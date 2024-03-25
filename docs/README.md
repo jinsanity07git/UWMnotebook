@@ -3,6 +3,7 @@
 ## Devloper notes
 * Backend
 * * [ASGI vs WSGI](DevNotes/backend.md)
+* [Python Black Magic ](DevNotes/PythonBlackMagic.md)
 ## Productivity 
 * [search syntax in Everything](/productivity/search?id=everything)
 * [syntax cases for regular expression](/productivity/cheatsheet/cheat_regularExpression.md)
@@ -41,6 +42,8 @@
   * [Three Fundamental Diagrams](https://trafficvis.com/fundamental-diagrams)
 
     These are created by [Dr. Lewis Lehe](https://lewislehe.com/). Check out the [Urban Traffic and Economics Lab](https://lehelab.com/) to learn more about his group's research.
+  
+* [uknow](https://github.com/jinsanity07git/uKnow)
 
 
 
