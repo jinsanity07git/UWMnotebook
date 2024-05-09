@@ -41,9 +41,10 @@ def create_epub(input_folder, output_file, cover_image=None):
         print(f'An error occurred while creating the EPUB: {e}')
 
 if __name__ == "__main__":
+    # https://epub-reader.online/
     # Example usage:
     input_folder = 'C:/Users/Zjin/Desktop/demo/aow'
-    output_file = 'The_Art_Of_War.epub'
+    output_file = 'The_Art_Of_War_cnen.epub'
     cover_image = f'{input_folder}/tnc.PNG'  # Optional
 
     # create_epub(input_folder, output_file, cover_image)s
@@ -75,11 +76,38 @@ if __name__ == "__main__":
                     charpters.append(parse_outlinks( subl.strip("\n") ) )
 
     singlebody = lines.copy()
-    cpf = f"{input_folder}/{charpters[0][1]}"
-    with open(cpf,"r",encoding="utf8") as f:
-        lines = f.readlines()
-    headings = f"# {charpters[0][0]}"
-    singlebody =  singlebody + [headings] +  lines
+
+     
+    def concat_contents(singlebody,charpter):
+        title,file= charpter
+        print (charpter)
+        cpf = f"{input_folder}/{file}"
+        with open(cpf,"r",encoding="utf8") as f:
+            lines = f.readlines()
+        if "#" in lines[0]:
+            singlebody =  singlebody + ["\n"] +   lines
+        else:
+            headings = f"# {title}"
+            singlebody =  singlebody + [headings] +  lines
+        
+        # print ("lines ",len(singlebody))
+        return singlebody
+    
+    for chap in charpters:
+        singlebody = concat_contents(singlebody,chap)
 
     with open("output_file.md","w",encoding="utf8") as f:
         f.writelines(singlebody)
+    
+
+    pandoc_command = [
+        os.environ["pandoc"] ,
+        '-o', f"{input_folder}/{output_file}",
+        '--metadata', f'title={os.path.splitext(output_file)[0]}',
+        '--table-of-contents',"output_file.md"
+    ]
+    try:
+        subprocess.run(pandoc_command, check=True)
+        print(f'Successfully created {output_file}')
+    except subprocess.CalledProcessError as e:
+        print(f'An error occurred while creating the EPUB: {e}')
