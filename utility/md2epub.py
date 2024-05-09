@@ -1,8 +1,14 @@
 import subprocess
 import os
+import re
+
 os.environ["pandoc"] = "C:\Program Files\Pandoc\pandoc.exe"
 # subprocess.run([os.environ["pandoc"],"--version"], check=True)
 subprocess.run(["pandoc","--version"], check=True)
+
+
+
+
 
 def create_epub(input_folder, output_file, cover_image=None):
     
@@ -41,3 +47,39 @@ if __name__ == "__main__":
     cover_image = f'{input_folder}/tnc.PNG'  # Optional
 
     # create_epub(input_folder, output_file, cover_image)s
+    index_md = "digest_The_Art_Of_War.md"
+    ixf = f"{input_folder}/{index_md}"
+    with open(ixf,"r",encoding="utf8") as f:
+        lines = f.readlines()
+
+  
+    
+    def parse_outlinks(markdown_link = "* [始计第一](01_LayingPlans.md)"):
+        
+        # using re.search if the pattern does not start at the very beginning of the string
+        match = re.search(r"\*\s+\[(.*?)\]\((.*?)\)", markdown_link)
+        
+        if match:
+            text_inside_brackets, markdown_link_inside_parentheses = match.groups()
+            result = (text_inside_brackets, markdown_link_inside_parentheses)
+        else:
+            result = "No match found"
+        return result
+
+    charpters = []
+    for i,line in enumerate(lines):
+        if "TOC\n" in line:
+            print (i, line)
+            for j,subl in enumerate(lines[i:]):
+                if  "  * ["  in subl:
+                    charpters.append(parse_outlinks( subl.strip("\n") ) )
+
+    singlebody = lines.copy()
+    cpf = f"{input_folder}/{charpters[0][1]}"
+    with open(cpf,"r",encoding="utf8") as f:
+        lines = f.readlines()
+    headings = f"# {charpters[0][0]}"
+    singlebody =  singlebody + [headings] +  lines
+
+    with open("output_file.md","w",encoding="utf8") as f:
+        f.writelines(singlebody)
