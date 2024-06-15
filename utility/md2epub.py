@@ -42,8 +42,9 @@ def create_epub(input_folder, output_file, cover_image=None):
 
 if __name__ == "__main__":
     # https://epub-reader.online/
+    # https://pythex.org/
     # Example usage:
-    input_folder = 'C:/Users/Zjin/Desktop/demo/aow'
+    input_folder = 'J:/My Drive/symless/doc_pocket/book'
     output_file = 'The_Art_Of_War_cnen.epub'
     cover_image = f'{input_folder}/tnc.PNG'  # Optional
 
