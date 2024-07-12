@@ -1,6 +1,10 @@
 import os
 baseurl = os.path.dirname(__file__)
 print (baseurl)
+"""
+研究资料 % python pytree.py 
+Conversion complete. The Markdown file has been saved as TOC.md.
+"""
 furl = os.path.join(baseurl,"..","docs/src/TRR_TOC.txt")
 with open(furl,"r",encoding="utf8") as f:
     lines = f.readlines()

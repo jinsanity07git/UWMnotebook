@@ -6,14 +6,14 @@
 *  Evaluating  Particulate  Emissions  From  Jet  Engines  Analysis  Of  Chemical  And  Physical  Characteristics  And  Potential  Impacts  On  Coastal  Environments  And  Human  Health.pdf
 *  North  American  Airline  Mergers  Strategic  Response  To  Imperfectly  Competitive  International  Markets.pdf
 ###  1518
+*  #_Developing  Long-Range  Transportation  Plans  For  Small  Urbanized  Areas  In  The  Istea  Era  Tallahassee  2020  Plan  Update.pdf
+*  #_Forecasting  Travel  Time.pdf
 *  Accuracy  Of  Traffic  Forecasts  And  Cost  Estimates  On  Large  Transportation  Projects.pdf
 *  Applying  Urban  Transportation  Modeling  Techniques  To    Model    Regional    Freight    And  Vehicle  Movement.pdf
-*  Developing  Long-Range  Transportation  Plans  For  Small  Urbanized  Areas  In  The  Istea  Era  Tallahassee  2020  Plan  Update.pdf
 *  Estimating  Impacts  Of  Transportation  Control  Measures  On  Work  Related  Trips.pdf
 *  Evaluating  The  Full  Costs  Of  Urban  Passenger  Transportation.pdf
 *  Evaluating  The  Options  In  Urban  Areas  With  Financial  Constraints.pdf
 *  Financially  Constraining  Washington'S  Transportation  Plan.pdf
-*  Forecasting  Travel  Time.pdf
 *  Land  Use  Impacts  On  Trip  Generation  Rates.pdf
 *  Performance  Measures  And  Framework  For  Decision  Making  Under  The  National  Transportation  System.pdf
 *  Performance  Measures  For  Multimodal  Transportation  Systems.pdf
@@ -51,12 +51,12 @@
 *  Using  Gps  Technology  To  Relate  Macroscopic  And  Microscopic  Traffic  Parameters.pdf
 *  What  Really  Is  The  Growth  Of  Vehicle  Usage.pdf
 ###  1521_Transit
+*  #_Developing  An  Index  Of  Transit  Service  Availability.pdf
 *  Analyzing  A  Transit  Subway  Station  During  Fire  Emergency  Using  Computational  Fluid  Dynamics.pdf
 *  Applications  Of  Fta  National  Transit  Data  Base  For  The  Intermodal  Surface  Transportation  Efficiency  Act  Management  System  Requirements.pdf
 *  Assessment  Of  Information  Systems  And  Technologies  At  California  Transit  Agencies.pdf
 *  Automobile  And  Public  Transit  Use  In  The  United  States  And  Canada  Comparison  Of  Postwar  Trends.pdf
 *  Applications  Of  Technology  In  Providing  Transit    Information.pdf
-*  Developing  An  Index  Of  Transit  Service  Availability.pdf
 *  Effects  Of  Smart  Cards  On  Transit  Operators.pdf
 *  Exploration  Of  Long-Distance  Interregional  Commuting  Issues    Analysis  Of  Northern  California  Interregional  Commuters  Using  Census  Data  And  Focus  Group  Interviews.pdf
 *  Fire  And  Life  Safety  Systems  At  Washington  Part  Station    North  America'  S  Deepest  Underground  Transit  Station.pdf
@@ -763,7 +763,7 @@
 *  Prospects  For  Progressing  Research  Through  Partnership  Comment  On  Trends  In  The  United  Kingdom  And  The  Technology  Foresight  Program.pdf
 *  Technology  Transfer  In  Western  Rural  Areas.pdf
 *  Technology  Transfer  Program  At  California-Baja  California  International  Border.pdf
-│   │   └── 1566
+###  1566
 *  Cluster  Analysis  As  Tool  In  Traffic  Engineering.pdf
 *  Comparison  Of  Netsim,  Netflo  I,  And  Netflo  Ii  Traffic  Simulation  Models  For  Fixed-Time  Signal  Control.pdf
 *  Comparison  Of  Simulation  Modules  Of  Transyt  And  Integration  Models.pdf
@@ -772,6 +772,8 @@
 *  Passing  Sight  Distance  And  Overtaking  Dilemma  On  Two-Lane  Roads.pdf
 *  Traffic  Flow  Simulation  Through  Parallel  Processing.pdf
 *  Traffic  Platoon  Dispersion  Modeling  On  Arterial  Streets.pdf
+###  TOC.txt
+│   │   └── pytree.py
 ##  1997
 ###  1567
 *  Air  Carrier  Deicing  Human  Factors  Approach  For  Building  Redundancy  And  Commonality  In  Standard  Operating  Procedures.pdf
@@ -3854,6 +3856,7 @@
 *  Wet  And  Wild  Developing  And  Evaluating  An  Automated  Wet-Pavement  Motorist  Warning  System.pdf
 *  Why  Will  Some  Individuals  Pay  For  Travel  Information  When  It  Can  Be  Free  Analysis  Of  A  Bay  Area  Traveler  Survey.pdf
 ###  1760
+*  *_Designing  Synchronization  Into  Bus  Timetables.pdf
 *  Accessible  Raleigh  Transportation  A  Paratransit  System  Using  Trip-By-  Trip  Eligibility  Determination  And  Two-Tiered,  User-Side  Subsidy.pdf
 *  Alternative-Fueled,  Low-Emission  Bus  Purchases  In  North  Carolina.pdf
 *  Bus  Rapid  Transit  Institutional  Issues  The  Route  From  Research  To  Experience.pdf
@@ -3861,7 +3864,6 @@
 *  Bus  Timetables  With  Even  Passenger  Loads  As  Opposed  To  Even  Headways.pdf
 *  Bus  Transit  In  The  21St  Century    Some  Perspectives  And  Prospects.pdf
 *  Commuter-Based  Carsharing  Market  Niche  Potential.pdf
-*  Designing  Synchronization  Into  Bus  Timetables.pdf
 *  Effect  Of  Automatic  Vehicle  Location  On  Schedule  Adherence  For  Mass  Transit  Administration  Bus  System.pdf
 *  Equilibrium  Model  Based  On  A  Microfoundation  For  Forecasting  Dial-A-Ride  Ridership.pdf
 *  Evaluation  Of  Feeder  Bus  Systems  With  Probabilistic  Time-Varying  Demands  And  Nonadditive  Time  Costs.pdf
@@ -4483,12 +4485,12 @@
 *  Trials  And  Successes  Of  Covered  Bridge  Engineering  And  Construction  Hamden  Covered  Bridge,  Delaware  County,  New  York.pdf
 *  Use  Of  Accelerated  Aging  To  Predict  Behavior  Of  Recycled  Materials  In  Concrete  Pavements  Physical  And  Environmental  Comparison  Of  Laboratory-  Aged  Samples  With  Field  Pavements.pdf
 ###  1793
+*  *_Encouraging  Kiss-And-Ride  At  Commuter  Railroad  Stations.pdf
 *  Bus  Rapid  Transit  Or  Light  Rail  Transit--How  To  Decide  Los  Angeles  Case  Study.pdf
 *  Chicago'S  North  Side  'L'  The  First  Hundred  Years  (With  Discussion).pdf
 *  Creating  Synergy  In  And  Around  Stations  Three  Strategies  For  Adding  Value.pdf
 *  Effect  Of  Skip-Stop  Policy  On  A  Korean  Subway  System.pdf
 *  Effects  Of  Pedestrian  Treatments  On  Risky  Pedestrian  Behavior.pdf
-*  Encouraging  Kiss-And-Ride  At  Commuter  Railroad  Stations.pdf
 *  Ferry  Service  Market  Analysis  National  Parks  Of  New  York  Harbor.pdf
 *  Heuristic  Analysis  Of  Impacts  Of  Commuter  Rail  Station  Consolidation  On  Pedestrian  Access.pdf
 *  Model  Predictive  Control  Approach  For  Recovery  From  Delays  In  Railway  Systems.pdf
@@ -8789,4 +8791,4 @@
 *  Work  Zone  Crashes  Involving  Traffic  Control  Devices,  Safety  Features,And  Work  Vehicles  And  Equipment.pdf
 └── pytree.py
 
-532 directories, 8424 files
+532 directories, 8411 files
