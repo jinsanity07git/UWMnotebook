@@ -21,6 +21,8 @@ def parse_epub(epub_file,
     # Extract the filenames (relative paths) of the stylesheets
     # stylesheet_filenames = [item.file_name for item in stylesheets]
     css = "<style> \n"
+    bgc = "body{   background-color:rgb(233, 225, 214) } \n"
+    css += bgc
     for stylesheet_item in stylesheets:
         css += stylesheet_item.content.decode('utf-8')
     css += "</style> \n"
