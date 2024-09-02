@@ -3,6 +3,23 @@ import ebooklib
 from ebooklib import epub
 from bs4 import BeautifulSoup
 import re
+import os
+from ebooklib import ITEM_IMAGE
+
+def get_image(epub_file,
+              srcdir = 'html/images'):
+        # Create 'images' folder if it doesn't exist
+    
+    book = epub.read_epub(epub_file)
+    if not os.path.exists(srcdir):
+        os.makedirs(srcdir)
+
+    # Extract and save images
+    for item in book.get_items_of_type(ITEM_IMAGE):
+        _, extension = os.path.splitext(item.file_name)
+        image_path = os.path.join(srcdir, os.path.basename(item.file_name))
+        with open(image_path, 'wb') as f:
+            f.write(item.content)
 
 def parse_epub(epub_file, 
                ix = 1,
