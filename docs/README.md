@@ -22,7 +22,9 @@
 # Cloud stack notes
 * GPT-SoVITS : [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/RVC-Boss/GPT-SoVITS/blob/main/colab_webui.ipynb)  
 * Markdown Roadmap Example [Kepler.gl 2019 Roadmap](https://raw.githubusercontent.com/wiki/keplergl/kepler.gl/Kepler.gl-2019-Roadmap.md)
-
+# web application
+*  HTML2PNG -[![][001colab]](https://colab.research.google.com/github/jinsanity07git/livedc/blob/main/notebooks/PrintasPNG.ipynb) 
+*  holiydayCalc [![][001colab]](https://colab.research.google.com/github/jinsanity07git/livedc/blob/main/notebooks/holidays.ipynb)
 # Transportation technical notes
 
 * [TRR 1996-2007 TOC](Research/TRR_TOC.md)
