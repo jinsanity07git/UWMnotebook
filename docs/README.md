@@ -62,8 +62,8 @@ Example tag
 
 | Course                                                       | Title                                                | Level                        | Link                            |
 | ------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------- | ------------------------------- |
-| <img src="./UWM/CE202/Dynamics_img/dynamics_icon.svg" alt="dynamics_icon" style="max-width:40%" /> | Engineering Dynamics<br /> CE202                     | undergraduate                | [Notebook](CE202/Dynamics.md)   |
-| <img src="./UWM/img/computer_statistics.png" alt="computer stats" style="max-width:40%;" /> | Computer/statistics <br />CE280                      | undergraduate                | [Notebook](CE280/statistics.md) |
+| <img src="./UWM/CE202/Dynamics_img/dynamics_icon.svg" alt="dynamics_icon" style="max-width:40%" /> | Engineering Dynamics<br /> CE202                     | undergraduate                | [Notebook](UWM/CE202/Dynamics.md)   |
+| <img src="./UWM/img/computer_statistics.png" alt="computer stats" style="max-width:40%;" /> | Computer/statistics <br />CE280                      | undergraduate                | [Notebook](UWM/CE280/statistics.md) |
 | <img src="./UWM/img/strength.gif"  style="max-width:40%;" />     | Strength of Materials<br />CE303                     | undergraduate                | [Notebook](UWM/CE303/CE303.md)      |
 | <img src="./UWM/img/soil mechanics.png" alt="soil_mecha" style="max-width:40%;" /> | Soil Mechanics <br />CE335         | undergraduate                | [Notebook](UWM/CE335/README.md)     |
 | <img src="./UWM/img/OR.png" style="max-width:40%;" />            | Operation Research<br />IndEng455                    | undergraduate;<br />graduate | [Notebook](UWM/IndEng455/README.md) |

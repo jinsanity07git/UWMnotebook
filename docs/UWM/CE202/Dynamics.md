@@ -19,7 +19,7 @@
 
 ### Chapter 12, Sections 1-3
 
-• Introduction [Week2: Exercise 1](CE202/lab/lab2_equations_presentation.md)
+• Introduction [Week2: Exercise 1](UWM/CE202/lab/lab2_equations_presentation.md)
 
  Rectilinear Motion of Particles
 
@@ -59,7 +59,7 @@
   * Acceleration: $\vec { \mathbf { a } } = \frac { d \vec { \mathbf { v } } } { d t } = a _ { x } \hat { \mathbf { i } } + a _ { y } \hat { \mathbf { j } } + a _ { z } \hat { \mathbf { k } }$ 
     * $a _ { x } = \frac { d v _ { x } } { d t } = \dot { v } _ { x } = \frac { d ^ { 2 } x } { d t ^ { 2 } } = \ddot { x } ,$ etc 
 
-**Special case: Projectile motion  ** [Week3: Exercise 2](http://129.89.35.118/udata/project/1532522260233_user/dynamic%20animation/trim_Functions.html) 
+**Special case: Projectile motion  ** [Week3: Exercise 2](https://jinsanity07git.github.io/blog/files/trim_Functions.html) 
 
 Horizontal acceleration = 0
 
@@ -99,7 +99,7 @@ Horizontal acceleration = 0
    
      * $\rho = \frac{(x'^2 + y'^2)^{3/2}} {|d^2y/dx^2|} $ 
    
-*  Polar and cylindrical coordinates.   [Week4: Exercise 3](CE202/lab/lab4_equations_presentation.md) 
+*  Polar and cylindrical coordinates.   [Week4: Exercise 3](UWM/CE202/lab/lab4_equations_presentation.md) 
 
   * components	
     * Transverse coordinate[^1] , θ, measured **counter clockwise** from a fixed reference: the positive x-axis, for example.
@@ -126,7 +126,7 @@ Horizontal acceleration = 0
 
 ###  Chapter 12, Sections 9-10  
 
-* Absolute dependent motion analysis of two particles [Week5: Exercise 4](CE202/lab/lab5_equations_presentation.md)
+* Absolute dependent motion analysis of two particles [Week5: Exercise 4](UWM/CE202/lab/lab5_equations_presentation.md)
 
   * steps
 
@@ -145,7 +145,7 @@ Horizontal acceleration = 0
     2. differentiate with respect to time ?
        *  to find relative velocity and relative acceleration:
 
-* <img src="../CE202/Dynamics_img/image-20201019121114549.png"  style="zoom:50%;" />
+* <img src="../UWM/CE202/Dynamics_img/image-20201019121114549.png"  style="zoom:50%;" />
 
 [^1]: [Polar (Radial/Transverse) Coordinates](http://web.mst.edu/~reflori/be150/lessons/lesson_05/polar_coordinates.html) 
 
@@ -169,7 +169,7 @@ Horizontal acceleration = 0
     3. Kinematics 
     4. Combine and solve
   * equations
-    * Newton’s 2nd Law of Motion  [Week7: Exercise 5](CE202/lab/lab7_equations_presentation.md) 
+    * Newton’s 2nd Law of Motion  [Week7: Exercise 5](UWM/CE202/lab/lab7_equations_presentation.md) 
       * $\sum \vec{F} =  m\vec{a}  $   
     * Friction
       * $F_f = \mu N$    
@@ -208,7 +208,7 @@ Horizontal acceleration = 0
 
 Work, Energy, Power, and Efficiency  
 
-* Work of a force  [Week9: Exercise 6](CE202/lab/lab9_equations_presentation.md)
+* Work of a force  [Week9: Exercise 6](UWM/CE202/lab/lab9_equations_presentation.md)
   * $U_{1-2} = \int_{\vec{r}_1}^{\vec{r}_2} \vec{F} \cdot d\vec{r} $ 
     * constant force : $U_{1-2} = F_c cos\theta(s_2 -s_1) $  
     * gravitational force (weight) : path independence : $-mgh $
@@ -270,7 +270,7 @@ Topics
 
 
 
-*  **Principle of Linear Impulse and Momentum:**    [Week11: Exercise 7](CE202/lab/lab10_equations_presentation.md)
+*  **Principle of Linear Impulse and Momentum:**    [Week11: Exercise 7](UWM/CE202/lab/lab10_equations_presentation.md)
 
   * $m\vec{v_1} + \int_{\vec{t}_1}^{\vec{t}_2} \vec{F} \cdot dt  = m\vec{v_2} $ 
   * If it is inconvenient to integrate vectors, you can dot with unit vectors to produce scalar equations:
@@ -434,7 +434,7 @@ Planar Kinematics of a Rigid Body
 
 Planar Kinematics of a Rigid Body
 
-*  Instantaneous Center of Zero Velocity  [Week13: Exercise 8](CE202/lab/lab13_equations_presentation.md)
+*  Instantaneous Center of Zero Velocity  [Week13: Exercise 8](UWM/CE202/lab/lab13_equations_presentation.md)
   *  Defination
         * Location that just for an instant has zero velocity
         * May have non-zero acceleration 
