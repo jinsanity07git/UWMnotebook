@@ -1,0 +1,12 @@
+# Requirements for Jupyter Notebook Parser
+# Core functionality works without additional dependencies (uses only standard library)
+
+# Optional dependency for DOCX export
+python-docx>=0.8.11
+
+# For enhanced notebook handling (optional)
+nbformat>=5.0
+
+nodespecs==0.1.6
+# Installation command:
+# pip install python-docx nbformat
