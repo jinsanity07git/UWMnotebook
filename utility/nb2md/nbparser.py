@@ -113,7 +113,8 @@ class NotebookParser:
             output_types = [output.get('output_type', 'unknown') for output in cell.get('outputs', [])]
             if output_types:
                 comments.append(f"Output types: {', '.join(set(output_types))}")
-        
+        if cell_type == 'markdown':
+            comments = []
         return '; '.join(comments) if comments else ""
     
     def to_markdown_table(self, output_path: str = None, cell_type_filter: str = None) -> str:
